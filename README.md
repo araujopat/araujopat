@@ -21,7 +21,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSSBacelli&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=ThiagoSSBacelli&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujopat&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=araujopat&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **araujopat/araujopat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
